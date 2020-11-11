@@ -1,0 +1,51 @@
+#cover{
+    background-image: url(img/intro-bg_1.jpg);
+    height: 400px;
+}
+#inscover{
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    height: 180px;
+    width: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 110px 0 110px 0; 
+}
+#shpbtnclr{
+   background-color: red;
+   
+}
+.shp{
+    text-decoration: none;
+    color: white;
+}
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;    
+}
+.cvr{
+    
+    height:500px;
+    color: #CF1AC4;
+}
+.cred{
+    padding-top: 10px;
+}
+.row_style{
+    padding: 10px;
+    margin-top: 10px;
+}
+.sgn{
+    height: 520px;
+    width: 600px;
+}
+.prd{
+    background-color: #36ee63;
+    color: white;
+}
+.pds{
+    padding-top: 12px;
+}
